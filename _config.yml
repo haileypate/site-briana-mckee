@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  reviews:
+    title: Reviews
+    output: true
 defaults:
 - scope:
     path: ''
