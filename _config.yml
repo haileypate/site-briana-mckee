@@ -8,9 +8,6 @@ collections:
   reviews:
     title: Reviews
     output: true
-  sections:
-    title: Sections
-    output: true
   uploads:
     title: Uploads
     output: true
